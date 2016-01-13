@@ -1,5 +1,5 @@
 {
-    "name": "prototypeblocks/reflection",
+    "name": "prototypeblocks/php-reflection",
     "type": "library",
     "description": "Prototypeblocks reflection",
     "keywords": ["annotations", "php", "prototypeblocks"],
