@@ -1,7 +1,7 @@
 Reflection
 ==========
 
-```
+```php
 use Prototypeblocks\Reflection\Annotations;
 
 $annotations = new Annotations;
